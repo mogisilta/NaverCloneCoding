@@ -1,0 +1,5 @@
+{
+    "pasteImage.basePath": "${currentFileDir}",
+    "pasteImage.path": "${currentFileDir}/images",
+    "pasteImage.showFilePathConfirmInputBox": false
+}
